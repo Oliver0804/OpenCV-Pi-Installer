@@ -20,13 +20,12 @@ sudo wget https://raw.githubusercontent.com/Oliver0804/OpenCV-Pi-Installer/main/
 1. 克隆此 GitHub 專案：
 
 ```bash
-git clone https://github.com/<您的帳號>/OpenCV-Pi-Installer.git
+git clone https://github.com/oliver0804/OpenCV-Pi-Installer.git
 ```
 2. 給予腳本執行權限：
 ```bash
 cd OpenCV-Pi-Installer
 chmod +x install_opencv.sh
-
 ```
 3. 執行腳本：
 ```bash
