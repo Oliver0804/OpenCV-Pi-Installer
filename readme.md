@@ -8,6 +8,13 @@ OpenCV-Pi-Installer 是一個專門為 Raspberry Pi 32位元作業系統設計�
 - 自動安裝所有依賴項。
 - 檢查並自動配置適當的 swap 大小。
 
+## oneshot 尚未測試
+
+```
+sudo wget https://raw.githubusercontent.com/Oliver0804/OpenCV-Pi-Installer/main/install_opencv.sh && sudo chmod +x install_opencv.sh && sudo bash install_opencv.sh
+
+```
+
 ## 使用方法
 
 1. 克隆此 GitHub 專案：
