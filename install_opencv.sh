@@ -17,8 +17,8 @@ else
     fi
 fi
 
-echo "正在您的Raspberry Pi 32位元作業系統中安裝OpenCV 4.7.0"
-echo "這將至少需要2.5小時！"
+echo "正在安裝OpenCV 4.7.0"
+echo "預估時間約3hr！"
 cd ~
 
 # 安裝依賴項
